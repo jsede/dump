@@ -1,2 +1,2 @@
 # dump
-dumping ground for weird and wonderful scripts
+A dumping ground for the weird, the wonderful, and sometimes useful scripts.
